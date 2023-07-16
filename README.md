@@ -1,3 +1,2 @@
 # git_test
-My first GitHub repo!
-Hello Odin!
+Hi everyone. This is me and I'm trying to learn web developing. Though I have some idea how to write the code, I'm willing to go back from scratch to learn the ins and outs of web developing. This sentence is just to test if my repo is working. Thank you.
